@@ -1,0 +1,7 @@
+{A} {END} {A} {A-END}
+{A,B} {a,b} {A} {A-aA|#|B, B-bB|#}
+{S,A,B} {E,N,D} {S} {S-ES|NA|BDDA, A-NDA|#, B-ENB|#, AB-#}
+{S,A,B} {a,b,c} {S} {S-aaB|aaC, B-bB|#, C-cC|#, aB-Ba, aC-Ca}
+{A,B} {0,1} {A} {A-0A0|1A1|B, B-01|#}
+
+

@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1558433094 source:f:\codeblocks\flatattempt1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"include/GrammarTest.h"
+	"include/Nodes.h"
+	"include/UsefulFunc.h"
+	"include/Combine.h"
+
+1558427664 f:\codeblocks\flatattempt1\include\grammartest.h
+	"Nodes.h"
+
+1558433250 source:f:\codeblocks\flatattempt1\src\grammartest.cpp
+	<iostream>
+	<strings.h>
+	"../include/GrammarTest.h"
+	"../include/Nodes.h"
+
+1558431626 source:f:\codeblocks\flatattempt1\src\nodes.cpp
+	"../include/Nodes.h"
+	<iostream>
+	<strings.h>
+
+1558431640 f:\codeblocks\flatattempt1\include\nodes.h
+
+1558267302 f:\codeblocks\flatattempt1\include\usefulfunc.h
+
+1558426388 source:f:\codeblocks\flatattempt1\src\usefulfunc.cpp
+	<iostream>
+	<strings.h>
+	"../include/GrammarTest.h"
+	"../include/Nodes.h"
+	"../include/UsefulFunc.h"
+
+1558363340 f:\codeblocks\flatattempt1\include\combine.h
+
+1558426279 source:f:\codeblocks\flatattempt1\src\combine.cpp
+	<iostream>
+	<cstring>
+	"../include/GrammarTest.h"
+	"../include/Nodes.h"
+	"../include/UsefulFunc.h"
+	"../include/Combine.h"
+
+1558651238 source:f:\codeblocks\backups\flatattempt1 uno\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<windows.h>
+	"include/GrammarTest.h"
+	"include/Nodes.h"
+	"include/UsefulFunc.h"
+	"include/Combine.h"
+
+1558427664 f:\codeblocks\backups\flatattempt1 uno\include\grammartest.h
+	"Nodes.h"
+
+1558431640 f:\codeblocks\backups\flatattempt1 uno\include\nodes.h
+
+1558640334 f:\codeblocks\backups\flatattempt1 uno\include\usefulfunc.h
+
+1558541723 f:\codeblocks\backups\flatattempt1 uno\include\combine.h
+
+1558647460 source:f:\codeblocks\backups\flatattempt1 uno\src\combine.cpp
+	<iostream>
+	<cstring>
+	"../include/GrammarTest.h"
+	"../include/Nodes.h"
+	"../include/UsefulFunc.h"
+	"../include/Combine.h"
+
+1558544374 source:f:\codeblocks\backups\flatattempt1 uno\src\grammartest.cpp
+	<iostream>
+	<strings.h>
+	"../include/GrammarTest.h"
+	"../include/Nodes.h"
+
+1558520612 source:f:\codeblocks\backups\flatattempt1 uno\src\nodes.cpp
+	"../include/Nodes.h"
+	<iostream>
+	<strings.h>
+
+1558640071 source:f:\codeblocks\backups\flatattempt1 uno\src\usefulfunc.cpp
+	<iostream>
+	<strings.h>
+	"../include/GrammarTest.h"
+	"../include/Nodes.h"
+	"../include/UsefulFunc.h"
+
