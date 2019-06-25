@@ -6,7 +6,9 @@ A program that computes the type of some given grammars and applies the regular 
 Input: Vn, Vt, q, P
 
 4 sets containing the non-terminals, terminals, starting point and production rules.
+
 Example of input: 
+
 **type
 {A} {END,0} {A} {A-END|0}**
 
